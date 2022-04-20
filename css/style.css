@@ -1,0 +1,35 @@
+#logo {
+  width: 100px;
+  height: 100px;
+}
+
+.navbar {
+  background-color: #006bac;
+}
+
+.portada {
+  width: 150px;
+  height: 150px;
+}
+
+.footer {
+  background-color: #008835;
+  color: white;
+}
+#insta {
+  color: white;
+  text-decoration: none;
+}
+.productos-titulo {
+  background-color: #008835;
+  color: white;
+  margin-top: 10px;
+}
+
+.gradiente {
+  background-image: linear-gradient(to right, #008835, #006bac);
+}
+
+.formulario {
+  color: white;
+}
